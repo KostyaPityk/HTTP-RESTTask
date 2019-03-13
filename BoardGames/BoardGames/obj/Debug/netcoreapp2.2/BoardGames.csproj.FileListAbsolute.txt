@@ -1,0 +1,14 @@
+E:\epam-lab\REST\HTTP-RESTTask\BoardGames\BoardGames\bin\Debug\netcoreapp2.2\BoardGames.deps.json
+E:\epam-lab\REST\HTTP-RESTTask\BoardGames\BoardGames\bin\Debug\netcoreapp2.2\BoardGames.runtimeconfig.json
+E:\epam-lab\REST\HTTP-RESTTask\BoardGames\BoardGames\bin\Debug\netcoreapp2.2\BoardGames.runtimeconfig.dev.json
+E:\epam-lab\REST\HTTP-RESTTask\BoardGames\BoardGames\bin\Debug\netcoreapp2.2\BoardGames.dll
+E:\epam-lab\REST\HTTP-RESTTask\BoardGames\BoardGames\obj\Debug\netcoreapp2.2\BoardGames.csprojAssemblyReference.cache
+E:\epam-lab\REST\HTTP-RESTTask\BoardGames\BoardGames\obj\Debug\netcoreapp2.2\BoardGames.csproj.CoreCompileInputs.cache
+E:\epam-lab\REST\HTTP-RESTTask\BoardGames\BoardGames\obj\Debug\netcoreapp2.2\BoardGames.RazorAssemblyInfo.cache
+E:\epam-lab\REST\HTTP-RESTTask\BoardGames\BoardGames\obj\Debug\netcoreapp2.2\BoardGames.RazorAssemblyInfo.cs
+E:\epam-lab\REST\HTTP-RESTTask\BoardGames\BoardGames\obj\Debug\netcoreapp2.2\BoardGames.AssemblyInfoInputs.cache
+E:\epam-lab\REST\HTTP-RESTTask\BoardGames\BoardGames\obj\Debug\netcoreapp2.2\BoardGames.AssemblyInfo.cs
+E:\epam-lab\REST\HTTP-RESTTask\BoardGames\BoardGames\obj\Debug\netcoreapp2.2\BoardGames.RazorTargetAssemblyInfo.cache
+E:\epam-lab\REST\HTTP-RESTTask\BoardGames\BoardGames\bin\Debug\netcoreapp2.2\BoardGames.pdb
+E:\epam-lab\REST\HTTP-RESTTask\BoardGames\BoardGames\obj\Debug\netcoreapp2.2\BoardGames.dll
+E:\epam-lab\REST\HTTP-RESTTask\BoardGames\BoardGames\obj\Debug\netcoreapp2.2\BoardGames.pdb
